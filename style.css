@@ -1,0 +1,30 @@
+.form-wrap{
+    max-width: 500px;
+    padding: 30px;
+    background: #f1f1f1;
+    margin: 20px auto;
+    border-radius: 4px;
+	text-align: center;
+}
+.form-wrap form{
+	border-bottom: 1px dotted #ddd;
+	padding: 10px;
+}
+.form-wrap #output{
+    margin: 10px 0;
+}
+.form-wrap .error{
+    color: #d60000;
+}
+.form-wrap .images {
+    width: 100%;
+    display: block;
+    border: 1px solid #e8e8e8;
+    padding: 5px;
+    margin: 5px 0;
+}
+.form-wrap .thumbnails {
+    width: 32%;
+    display: inline-block;
+    margin: 3px;
+}
